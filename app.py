@@ -21,7 +21,6 @@ def ayensu_hostels():
         hostels = []
         for row in csv_data:
             hostels.append(row)
-        # print(list_of_rows)
 
     return render_template("ayensu-hostel.html", hostels=hostels)
 
@@ -32,7 +31,6 @@ def shatta_wale_hostels():
         hostels = []
         for row in csv_data:
             hostels.append(row)
-        # print(list_of_rows)
 
     return render_template("shatta-wale-hostel.html", hostels=hostels)
 
@@ -43,7 +41,6 @@ def kwaprow_hostels():
         hostels = []
         for row in csv_data:
             hostels.append(row)
-        # print(list_of_rows)
 
     return render_template("kwapro-hostel.html", hostels=hostels)
 
@@ -54,9 +51,12 @@ def science_hostels():
         hostels = []
         for row in csv_data:
             hostels.append(row)
-        # print(list_of_rows)
 
     return render_template("science-hostel.html", hostels=hostels)
+
+@app.route('/hostel-sections/<hostel_name>/hostel-details/<name>', methods=["GET", "POST"])
+def hostel_details(hostel_name, name):
+    return render_template("hostel-details.html", hostel_name=hostel_name, name=name)
 
 if __name__ == '__main__':
     app.run()

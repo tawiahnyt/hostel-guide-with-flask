@@ -25,7 +25,7 @@
             <div class="row text-center">
                 {% for hostel in hostels[1:] %}
                 <div class="col-lg-4 hostel-preview mb-5">
-                    <a href="metro-hostel-details.html">
+                    <a href="{{ url_for('hostel_details',hostel_name="ayensu-hostels", name=hostel[0]) }}">
                         <img style="border-radius:10px;" src="{{ hostel[1] }}"
                             width="350px" height="220px">
                     </a>
