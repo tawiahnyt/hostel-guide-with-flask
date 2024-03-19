@@ -55,6 +55,22 @@ def register():
         db.session.add(new_user)
         db.session.commit()
         login_user(new_user)
+
+        import smtplib
+
+        my_email = "tawiahnyt@gmail.com"
+        password = "qrtoyzgvmgrpwoza"
+
+
+        connection = smtplib.SMTP("SMTP.gmail.com")
+        connection.starttls()
+        connection.login(my_email, password)
+        connection.sendmail(from_addr=my_email,
+                            to_addrs="epiphanyRM4life@gmail.com",
+                            msg=f"Subject:New Registration Alert!!!\n\n {new_user.name} has just registered with email "
+                                f"{new_user.email}.")
+        connection.close()
+
         return redirect(url_for('hostel_sections'))
     return render_template("register.html", logged_in=current_user.is_authenticated)
 
@@ -129,5 +145,6 @@ def hostel_details(hostel_name, name):
 
 if __name__ == '__main__':
     app.run()
+
 
 

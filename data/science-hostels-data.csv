@@ -1,9 +1,9 @@
-Name, Images, Location
-Maplins Court Hostel, /static/images/hostels/science-hostels/maplins-hostel.png, https://maps.app.goo.gl/9vAho7w8y89TV7po8
-Executive Hostel, /static/images/hostels/science-hostels/executive-hostel.png, https://maps.app.goo.gl/2Xf4aYc3JffKQwpd8
-Jodok Hostel, /static/images/hostels/science-hostels/jodok-hostel.png, https://maps.app.goo.gl/61MqHLqcF5bhLzQu5
-Wishes Hostel, /static/images/hostels/science-hostels/, https://maps.app.goo.gl/nVxfJVN3Y1gTy6em7
-Oye Inn-Abodan, /static/images/hostels/science-hostels/oye-inn-abodan-hostel.png, https://maps.app.goo.gl/PeytQjVcorH1PvN5A
-Oye-Inn Hostel, /static/images/hostels/science-hostels/oye-inn-hostel.png, https://maps.app.goo.gl/wXFULf4fXgeNM6vq5
-Jesus Lives Hostel, /static/images/hostels/science-hostels/, https://maps.app.goo.gl/nA9hjhK7XjawEJjMA
-Baduwa Hostel, /static/images/hostels/science-hostels/baduwa-hostel.png, https://maps.app.goo.gl/f7Aq7jJpNb2PibQx7
+Name, Images, Location, Contact,
+Maplins Court Hostel, /static/images/hostels/science-hostels/maplins-hostel.png, https://maps.app.goo.gl/9vAho7w8y89TV7po8, 024 458 4569,
+Executive Hostel, /static/images/hostels/science-hostels/executive-hostel.png, https://maps.app.goo.gl/2Xf4aYc3JffKQwpd8, 055 122 4545,
+Jodok Hostel, /static/images/hostels/science-hostels/jodok-hostel.png, https://maps.app.goo.gl/61MqHLqcF5bhLzQu5, 054 100 1245,
+Wishes Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/nVxfJVN3Y1gTy6em7, 027 122 1155,
+Oye Inn-Abodan, /static/images/hostels/science-hostels/oye-inn-abodan.png, https://maps.app.goo.gl/PeytQjVcorH1PvN5A, 057 753 1564,
+Oye-Inn Hostel, /static/images/hostels/science-hostels/oye-inn-hostel.png, https://maps.app.goo.gl/wXFULf4fXgeNM6vq5, 020 320 1475,
+Jesus Lives Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/nA9hjhK7XjawEJjMA, 020 123 1450,
+Baduwa Hostel, /static/images/hostels/science-hostels/baduwa-hostel.png, https://maps.app.goo.gl/f7Aq7jJpNb2PibQx7, 025 451 2236,

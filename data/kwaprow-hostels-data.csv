@@ -1,7 +1,7 @@
-Name, Images, Location
-Sammy Otoo's Hostel, /static/images/hostels/kwaprow-hostels/sammy-otoo-hostel.png, https://maps.app.goo.gl/8eY4QzXFeGFaNM5f7
-Student's Villa, /static/images/hostels/kwaprow-hostels/student-villa.png, https://maps.app.goo.gl/qPvwq3umd6Vd9EJo9
-Sawbridge Hostel, /static/images/hostels/kwaprow-hostels/sawbridge-hostel.png, https://maps.app.goo.gl/TCuBGGJkVSq4B3yW8
-Blue Hostel, null, https://maps.app.goo.gl/BUzMPQAMxoSQEWQWA
-Oga Hostel, /static/images/hostels/kwaprow-hostels/oga-hostel.png, https://maps.app.goo.gl/odfcZ1yzejLJ3bJb8
-The Nest Hostel, /static/images/hostels/kwaprow-hostels/the-nest-hostel.png, https://maps.app.goo.gl/
+Name, Images, Location, Contact,
+Sammy Otoo's Hostel, /static/images/hostels/kwaprow-hostels/sammy-otoo-hostel.png, https://maps.app.goo.gl/8eY4QzXFeGFaNM5f7, 024 458 4569,
+Student's Villa, /static/images/hostels/kwaprow-hostels/student-villa.png, https://maps.app.goo.gl/qPvwq3umd6Vd9EJo9, 055 122 4545,
+Sawbridge Hostel, /static/images/hostels/kwaprow-hostels/sawbridge-hostel.png, https://maps.app.goo.gl/TCuBGGJkVSq4B3yW8, 054 100 1245,
+Blue Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/BUzMPQAMxoSQEWQWA, 027 122 1155,
+Oga Hostel, /static/images/hostels/kwaprow-hostels/oga-hostel.png, https://maps.app.goo.gl/odfcZ1yzejLJ3bJb8, 057 753 1564,
+The Nest Hostel, /static/images/hostels/kwaprow-hostels/the-nest-hostel.png, https://maps.app.goo.gl/, 020 320 1475,

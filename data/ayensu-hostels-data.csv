@@ -1,13 +1,13 @@
-Names, Images, Location
-Metro Hostel, /static/images/hostels/ayensu-hostels/metro-hostel.png, https://maps.app.goo.gl/ytgxdLCjGsMK8qTR7
-Samnice Hostel, /static/images/hostels/ayensu-hostels/samnice-hostel.png, https://maps.app.goo.gl/vhcexxRijpSZZ1BeA
-Blessed Hostel, /static/images/hostels/ayensu-hostels/Screenshot 2024-02-14 120008.png, https://maps.app.goo.gl/vXQ9X1qW71BfKdsVA
-Nana Sarpong Hostel, /static/images/hostels/ayensu-hostels/Screenshot 2024-02-14 120008.png, https://maps.app.goo.gl/kfz7vDow8N2BVZwD9
-Twum Barima Hostel, /static/images/hostels/ayensu-hostels/Screenshot 2024-02-14 120008.png, https://maps.app.goo.gl/kFt4aWeZJmKMsU3S6
-Ayensu Plaza, /static/images/hostels/ayensu-hostels/Screenshot 2024-02-14 120008.png, https://maps.app.goo.gl/mVYXfaZK6xKhC4Lg7
-The Rock Hostel, /static/images/hostels/ayensu-hostels/the-rock-hostel.png, https://maps.app.goo.gl/jzQBE4C1pf2LvkBp8
-Round Palace Hostel, /static/images/hostels/ayensu-hostels/round-palace-hostel.png, https://maps.app.goo.gl/2kUxTHr5Lik14h6Y7
-Aseda Hostel, /static/images/hostels/ayensu-hostels/aseda-hostel.png, https://maps.app.goo.gl/3geHr3jqHHfjGxwc7
-Adjoa Dufie Palace, /static/images/hostels/ayensu-hostels/adjoa-dufie-palace.png, https://maps.app.goo.gl/TxF2Uj2NWjsBMtn96
-Global Hostel, /static/images/hostels/ayensu-hostels/global-hostel.png, https://maps.app.goo.gl/9RTZpSqwRUmnPoJE9
-Bethel Hostel, /static/images/hostels/ayensu-hostels/Screenshot 2024-02-14 120008.png, https://maps.app.goo.gl/UPDLS3jYLoArUsxt7
+Names, Images, Location, Contact
+Metro Hostel, /static/images/hostels/ayensu-hostels/metro-hostel.png, https://maps.app.goo.gl/ytgxdLCjGsMK8qTR7, 024 442 0000,
+Samnice Hostel, /static/images/hostels/ayensu-hostels/samnice-hostel.png, https://maps.app.goo.gl/vhcexxRijpSZZ1BeA, 024 458 4569,
+Blessed Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/vXQ9X1qW71BfKdsVA, 050 120 8500,
+Nana Sarpong Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/kfz7vDow8N2BVZwD9, 055 122 4545,
+Twum Barima Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/kFt4aWeZJmKMsU3S6, 020 456 4500,
+Ayensu Plaza, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/mVYXfaZK6xKhC4Lg7, 054 100 1245,
+The Rock Hostel, /static/images/hostels/ayensu-hostels/the-rock-hostel.png, https://maps.app.goo.gl/jzQBE4C1pf2LvkBp8, 027 122 1155,
+Round Palace Hostel, /static/images/hostels/ayensu-hostels/round-palace-hostel.png, https://maps.app.goo.gl/2kUxTHr5Lik14h6Y7, 057 753 1564,
+Aseda Hostel, /static/images/hostels/ayensu-hostels/aseda-hostel.png, https://maps.app.goo.gl/3geHr3jqHHfjGxwc7, 020 320 1475,
+Adjoa Dufie Palace, /static/images/hostels/ayensu-hostels/adjoa-dufie-palace.png, https://maps.app.goo.gl/TxF2Uj2NWjsBMtn96,027 412 1023,
+Global Hostel, /static/images/hostels/ayensu-hostels/global-hostel.png, https://maps.app.goo.gl/9RTZpSqwRUmnPoJE9, 020 123 1450,
+Bethel Hostel, /static/images/default_geocode-1x.png, https://maps.app.goo.gl/UPDLS3jYLoArUsxt7, 025 451 2236,
